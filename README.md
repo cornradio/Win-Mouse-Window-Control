@@ -9,6 +9,8 @@
 - ⚡ 240Hz高刷新率，移动/调整更流畅
 - 🔒 最小窗口限制保护（宽度≥100px，高度≥32px）
 
+![演示2](https://github.com/user-attachments/assets/80e1ba28-3aef-42d0-86e8-2035815fdbf5)
+
 ## 使用方法
 
 1. 安装[AutoHotkey](https://www.autohotkey.com/)
